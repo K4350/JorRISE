@@ -160,7 +160,7 @@
     }
   ?>
       <?php
-
+git push -u origin main
       if (isset($_GET['q'])) {
         # code...
         echo '<section id="inner-headline">
